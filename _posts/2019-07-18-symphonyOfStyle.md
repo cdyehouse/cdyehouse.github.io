@@ -1,14 +1,16 @@
 ---
-title:  "Community Advocate"
-subtitle: "Advisor to Community Council"
+title:  "Symphony of Style"
+subtitle: "Director of Ticket Services and Operations"
 author: ""
-avatar: ""
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+avatar: "img/authors/profilePic.jpeg"
+image: "img/carnegieHallLaSierra.jpg"
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Accomplishments
+* Senior leadership role to support executive team in advancing the mission of the organization. 
+* Developing strong relationships with patrons, Ticketmaster staff and the marketing team as well as implementing critical strategies to prevent customer service deficiencies. 
+* Implementing strategies to optimize revenues through ticketing operations. 
+* Creating season reports critical in developing strategies of growth for the marketing team. Hiring, coaching and developing a robust staff, trained to optimize revenues and deliver outstanding customer service.
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.

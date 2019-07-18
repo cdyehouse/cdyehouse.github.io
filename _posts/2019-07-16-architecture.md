@@ -2,9 +2,8 @@
 title:  "Meyer May House"
 subtitle: "Docent of the Meyer May House for Steelcase"
 author: ""
-avatar: ""
-image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+avatar: "img/authors/profilePic.jpeg"
+image: "img/testflw.jpg"
 ---
 
 ### Dolor sit amet?

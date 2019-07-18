@@ -1,10 +1,9 @@
 ---
-title:  "Musical Motif"
-subtitle: "Pianist and Piano Teacher"
+title:  "Community Advocate"
+subtitle: "Advisor to Community Council"
 author: ""
-avatar: ""
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+avatar: "img/authors/profilePic.jpeg"
+image: "img/grandRapids.jpg"
 ---
 
 ### Dolor sit amet?
