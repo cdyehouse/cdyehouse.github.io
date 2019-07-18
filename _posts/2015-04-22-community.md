@@ -1,10 +1,10 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+title:  "Community Advocate"
+subtitle: "Advisor to Community Council"
+author: ""
+avatar: ""
+image: "img/c.jpg"
+date:   2015-04-22 12:12:12
 ---
 
 ### Dolor sit amet?

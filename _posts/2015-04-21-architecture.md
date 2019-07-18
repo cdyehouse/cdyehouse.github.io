@@ -1,10 +1,10 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+title:  "Meyer May House"
+subtitle: "Docent of the Meyer May House for Steelcase"
+author: ""
+avatar: ""
+image: "img/b.jpg"
+date:   2015-04-21 12:12:12
 ---
 
 ### Dolor sit amet?
